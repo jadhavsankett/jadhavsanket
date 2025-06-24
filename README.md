@@ -1,5 +1,5 @@
 👋 Welcome to my profile! <br>
-I'm Sanket Jadhav — a curious builder and creative thinker.<br>
+I'm <b>Sanket Jadhav<b> — a curious builder and creative thinker.<br>
 <br>
 🌐 Full Stack Web Developer<br>
 🎨 UI/UX Designer<br>
